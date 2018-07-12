@@ -1,0 +1,50 @@
+﻿{
+  "info": "Quảng cáo custom exit app",
+  "listAds": [
+    {
+      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/quizmath_tv.jpg",
+      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/quizmath_ta.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "com.ite.utruefalse",
+      "all_vi_en": 0
+    },
+    {
+      "url_icon_vi": "https://uphinhnhanh.com/images/2017/12/24/smart-tv.jpg",
+      "url_icon_en": "https://uphinhnhanh.com/images/2017/12/24/smart-ta.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "icetea.encode.smartvoicecontrol",
+      "all_vi_en": 0
+    },
+    {
+      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/to-mau-660x330tv.jpg",
+      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/to-mau-660x330ta.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "com.ite.coloring4kids",
+      "all_vi_en": 0
+    },
+    {
+      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/compass_660x330-tv.jpg",
+      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/compass_660x330-ta.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=com.ite.compass",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "com.ite.compass",
+      "all_vi_en": 0
+    },
+    {
+      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/secretcode_tv.jpg",
+      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/secretcode_ta.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "icetea.encode.createsecretcode",
+      "all_vi_en": 0
+    }
+	]
+}
