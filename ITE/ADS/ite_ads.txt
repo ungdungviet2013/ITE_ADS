@@ -1,0 +1,69 @@
+﻿{
+  "description":"mo ta ve file",
+  "listAds": [
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
+      "name": "Phong Thủy Việt",
+      "packId": "com.ite.phongthuy",
+      "info":"Kiến thức tổng hợp về phong thủy, hỗ trợ la bàn & thước lỗ ban để xem phong thủy",
+      "ok": "CÀI ĐẶT",
+      "cancel":"BỎ QUA",
+      "id_vn": 1
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
+      "name": "Bói Tổng Hợp - Tử Vi",
+      "packId": "icetea.encode.boitonghop2",
+      "info":"Ứng dụng xem bói, xem tử vi, xem lịch tốt nhất của người Việt, cho người Việt",
+      "ok": "TẢI NGAY",
+      "cancel":"ĐỂ SAU",
+      "id_vn": 1
+    },
+    {
+      "link": "https://sites.google.com/view/iceteaencode/trangchu/Bigkool-danh-bai-doi-thuong",
+      "name": "Bigkool - Đánh Bài Đổi Thưởng",
+      "packId": "vn.gamehn.danhbaitangxugamevn",
+      "info":"Hệ thống game bài hàng đầu Việt Nam giúp người chơi không bao giờ chán và luôn có những giây phút sảng khoái, thú vị.",
+      "ok": "XEM NGAY",
+      "cancel":"ĐỂ SAU",
+      "id_vn": 1
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.ite.dailyhoroscope",
+      "name": "Tử Vi Hàng Ngày Của Tôi",
+      "packId": "com.ite.dailyhoroscope",
+      "info":"May mắn, sự nghiệp, tình yêu, tâm trạng, tài chính, sức khỏe... còn nhiều hơn thế nữa đang đợi bạn khám phá",
+      "ok": "KHÁM PHÁ NGAY",
+      "cancel":"ĐỂ SAU",
+      "id_vn": 1
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
+      "name": "Quiz Math",
+      "packId": "com.ite.utruefalse",
+      "info":"Kiểm tra khả năng tính nhẩm nhanh của bạn thông quá 4 chế độ chơi từ dễ đến khó. Bạn có thể thách đố với bạn bè phá kỷ lục của chính mình.",
+      "ok": "KHÁM PHÁ NGAY",
+      "cancel":"ĐỂ SAU",
+      "id_vn": 1
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
+      "name": "Tô Màu Cho Trẻ Em",
+      "packId": "com.ite.coloring4kids",
+      "info":"Ứng dụng tô màu miễn phí tốt nhất dành cho trẻ em tập tô màu!",
+      "ok": "TẢI VỀ",
+      "cancel":"BỎ QUA",
+      "id_vn": 1
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
+      "name": "SMS Hay - Tin Nhắn Yêu Thương",
+      "packId": "com.ite.smsgiftlife",
+      "info":"Hàng ngàn tin nhắn và lời chúc hay đang đợi bạn khám phá. Tổng hợp các mẫu nội dung nhiều chủ đề giúp bạn gửi tin nhắn nhanh chóng",
+      "ok": "HÃY TẢI NÓ ĐI!",
+      "cancel":"KHÔNG, CÁM ƠN",
+      "id_vn": 1
+    }
+    
+  ]
+}
