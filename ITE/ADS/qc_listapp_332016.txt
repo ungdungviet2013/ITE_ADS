@@ -1,8 +1,8 @@
 {
   "info": "Ice Tea Encode",
-  "version_BoiTongHop": 71,
+  "version_BoiTongHop": 72,
   "link_boi": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
-  "info_update": "Phiên bản 4.4.1:\n- Cập nhật Sim số đẹp\n- Sửa lỗi chọn ngày\n- Thêm thông báo: tử vi hàng ngày, ngày lễ, ngày rằm và mùng một. Tắt/bật thông báo trong phần thiết lập ở màn hình mở rộng.",
+  "info_update": "Phiên bản 4.4.2:\n- Tối ưu dữ liệu và sửa lỗi ứng dụng.",
   "listAds": [
     {
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
@@ -103,7 +103,7 @@
 		"url_480x800": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-300-250.jpg",
 		"url_720x1200": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-600-500.jpg",
 		"link_store": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
-		"name": "Nhân dịp Tết Nguyên Đán Mậu Tuất chúc bạn và gia đình một năm mới an khang thịnh vượng.\nNhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" phiên bản mới của Bói Tổng Hợp với giao diện mới, hiện đại, tiện dụng và thêm nhiều tính năng mới.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
+		"name": "Nhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" phiên bản mới của Bói Tổng Hợp với giao diện mới, hiện đại, tiện dụng và thêm nhiều tính năng mới.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
 		"version": 1,
 		"packId": "icetea.encode.boitonghop2",
 		"priority":0,
@@ -113,7 +113,7 @@
 		"url_480x800": "http://sv1.upsieutoc.com/2017/06/01/phongthuy320x250.jpg",
 		"url_720x1200": "http://sv1.upsieutoc.com/2017/06/01/phonthuy600x300.jpg",
 		"link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-		"name": "Nhân dịp Tết Nguyên Đán Mậu Tuất chúc bạn và gia đình một năm mới an khang thịnh vượng.\nNhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" - ứng dụng miễn phí giúp bạn xem bói, tra cứu lịch âm dương, lịch vạn niên, xem tử vi hàng ngày đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
+		"name": "Nhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" - ứng dụng miễn phí giúp bạn xem bói, tra cứu lịch âm dương, lịch vạn niên, xem tử vi hàng ngày đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
 		"version": 1,
 		"packId": "icetea.encode.tetnguyendan",
 		"priority":0,
