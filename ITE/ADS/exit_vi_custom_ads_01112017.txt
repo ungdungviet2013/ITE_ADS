@@ -23,7 +23,7 @@
       "url_icon_vi": "https://uphinhnhanh.com/images/2018/02/04/phong-thuy-660x330.jpg",
       "url_icon_en": "https://uphinhnhanh.com/images/2018/02/04/phong-thuy-660x330.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-      "text_install_vi": "Xem ngay",
+      "text_install_vi": "Xem",
       "text_install_en": "Install Now",
       "packId": "com.ite.phongthuy",
       "all_vi_en": 0
