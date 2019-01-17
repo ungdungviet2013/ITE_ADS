@@ -1,9 +1,9 @@
-﻿{
+{
   "info": "Quảng cáo custom exit app",
   "listAds": [
     {
-      "url_icon_vi": "https://uphinhnhanh.com/images/2018/02/04/boi-tong-hop-660x330.jpg",
-      "url_icon_en": "https://uphinhnhanh.com/images/2018/02/04/boi-tong-hop-660x330.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/01/12/boi-tong-hop-660x330.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/01/12/boi-tong-hop-660x330.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
       "text_install_vi": "Xem ngay",
       "text_install_en": "Install Now",
@@ -20,10 +20,10 @@
       "all_vi_en": 0
     },
     {
-      "url_icon_vi": "https://uphinhnhanh.com/images/2018/02/04/phong-thuy-660x330.jpg",
-      "url_icon_en": "https://uphinhnhanh.com/images/2018/02/04/phong-thuy-660x330.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/01/12/phong-thuy-660x330.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/01/12/phong-thuy-660x330.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-      "text_install_vi": "Xem Ngay",
+      "text_install_vi": "Xem ngay",
       "text_install_en": "Install Now",
       "packId": "com.ite.phongthuy",
       "all_vi_en": 0
