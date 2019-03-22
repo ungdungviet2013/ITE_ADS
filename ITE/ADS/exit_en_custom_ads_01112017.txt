@@ -2,17 +2,8 @@
   "info": "Quảng cáo custom exit app",
   "listAds": [
     {
-      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/quizmath_tv.jpg",
-      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/quizmath_ta.jpg",
-      "link_store": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
-      "text_install_vi": "Cài đặt ngay",
-      "text_install_en": "Install Now",
-      "packId": "com.ite.utruefalse",
-      "all_vi_en": 0
-    },
-    {
-      "url_icon_vi": "https://uphinhnhanh.com/images/2018/11/28/smartvoice_tv.jpg",
-      "url_icon_en": "https://uphinhnhanh.com/images/2018/11/28/smartvoice_ta.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/smartvoice_tv.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/smartvoice_ta.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
       "text_install_vi": "Cài đặt ngay",
       "text_install_en": "Install Now",
@@ -20,8 +11,17 @@
       "all_vi_en": 0
     },
     {
-      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/to-mau-660x330tv.jpg",
-      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/to-mau-660x330ta.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/one-line_660x330-TV.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/one-line_660x330-TA.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=com.ite.oneline",
+      "text_install_vi": "Cài đặt ngay",
+      "text_install_en": "Install Now",
+      "packId": "com.ite.oneline",
+      "all_vi_en": 0
+    },
+    {
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/to-mau-660x330tv.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/to-mau-660x330ta.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
       "text_install_vi": "Cài đặt ngay",
       "text_install_en": "Install Now",
@@ -29,8 +29,8 @@
       "all_vi_en": 0
     },
     {
-      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/compass_660x330-tv.jpg",
-      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/compass_660x330-ta.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/22/compass_660x330-tv.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/22/compass_660x330-ta.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.compass",
       "text_install_vi": "Cài đặt ngay",
       "text_install_en": "Install Now",
@@ -38,8 +38,8 @@
       "all_vi_en": 0
     },
     {
-      "url_icon_vi": "https://sv1.uphinhnhanh.com/images/2018/06/29/secretcode_tv.jpg",
-      "url_icon_en": "https://sv1.uphinhnhanh.com/images/2018/06/29/secretcode_ta.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/secretcode_tv.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/secretcode_ta.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
       "text_install_vi": "Cài đặt ngay",
       "text_install_en": "Install Now",
