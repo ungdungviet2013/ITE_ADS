@@ -1,8 +1,8 @@
 {
   "info": "Ice Tea Encode",
-  "version_BoiTongHop": 72,
+  "version_BoiTongHop": 76,
   "link_boi": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
-  "info_update": "Phiên bản 4.4.2:\n- Tối ưu dữ liệu và sửa lỗi ứng dụng.",
+  "info_update": "Phiên bản 4.4.6:\n- Sửa lỗi không tải được dữ liệu tử vi hàng ngày",
   "listAds": [
     {
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
