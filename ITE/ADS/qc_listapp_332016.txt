@@ -68,9 +68,9 @@
       "packId": "icetea.encode.boitonghop2"
     },
     {
-      "url_icon": "https://lh3.googleusercontent.com/RdIfx1OApbI9MG9uQlC2i8lnh28xE4hqV7HVQRnlh2uCDvev_BaMWv5pNzhsWUTy7s9z=w86",
+      "url_icon": "https://lh3.googleusercontent.com/TLBmlgx9xePxbVjozpEgWnjLKYQwbq_bjx_y48U-rU2N1jX7eSkOpjpXv1wDSmHHPGs=s86",
       "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
-      "name": "SMS Hay - Tin Nhắn Tổng Hợp",
+      "name": "SMS Hay - Tin Nhắn Miễn Phí",
       "id_vn": 1,
       "packId": "com.ite.smsgiftlife"
     },
