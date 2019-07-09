@@ -7,12 +7,12 @@
     {
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
       "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
-      "name": "Bói 2018 Android, iOS, WinPhone",
+      "name": "Bói 2019 Android, iOS, WinPhone",
       "id_vn": 1,
       "packId": "hq.eBiz.OTOS"
     },
     {
-      "url_icon": "https://lh3.googleusercontent.com/UkPdQQq4zgsx0CkDZR_bk5Hmby7OHGqplbR9gzvpPjIVty2lkY-a7rcQIWqg5MftIw=w86",
+      "url_icon": "https://lh3.googleusercontent.com/_uf0fINYPeSbZD3k56cxsw5xUwmXg0aX7PIAcXjs1yMKaVdbIKiCdtb6ZK9mf31ggOo=s86",
       "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
       "name": "Lịch Việt",
       "id_vn": 1,
