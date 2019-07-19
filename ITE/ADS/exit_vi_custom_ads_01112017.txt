@@ -38,8 +38,8 @@
       "all_vi_en": 0
     },
     {
-      "url_icon_vi": "hhttps://www.upsieutoc.com/images/2019/03/22/compass_660x330-tv.jpg",
-      "url_icon_en": "hhttps://www.upsieutoc.com/images/2019/03/22/compass_660x330-tv.jpg",
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/22/compass_660x330-tv.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/03/22/compass_660x330-tv.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.compass",
       "text_install_vi": "Tải ngay La Bàn 2019",
       "text_install_en": "Install Now",
