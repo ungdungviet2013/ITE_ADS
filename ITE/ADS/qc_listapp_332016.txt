@@ -5,13 +5,6 @@
   "info_update": "Phiên bản 4.4.7:\n Cập nhật dữ liệu, giao diện và sửa lỗi ứng dụng.",
   "listAds": [
     {
-      "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
-      "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
-      "name": "Bói 2019 Android, iOS, WinPhone",
-      "id_vn": 1,
-      "packId": "hq.eBiz.OTOS"
-    },
-    {
       "url_icon": "https://lh3.googleusercontent.com/_uf0fINYPeSbZD3k56cxsw5xUwmXg0aX7PIAcXjs1yMKaVdbIKiCdtb6ZK9mf31ggOo=s86",
       "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
       "name": "Lịch Việt",
@@ -31,6 +24,13 @@
       "name": "La bàn trên bản đồ",
       "id_vn": 0,
       "packId": "com.ite.compass"
+    },
+    {
+      "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
+      "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
+      "name": "Bói 2019 Android, iOS, WinPhone",
+      "id_vn": 1,
+      "packId": "hq.eBiz.OTOS"
     },
     {
       "url_icon": "https://lh3.googleusercontent.com/ZCx3G0Juexw4qyl4E9MQ_RFoD4jXY7g_htW_zsxcdJNP1t2AOthIbNb9_nVNLA0n1Pw7=w86",
