@@ -11,6 +11,15 @@
       "all_vi_en": 0
     },
     {
+      "url_icon_vi": "https://www.upsieutoc.com/images/2019/12/15/chuc-tet-660x330.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2019/12/15/chuc-tet-660x330.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
+      "text_install_vi": "Xem ngay",
+      "text_install_en": "Install Now",
+      "packId": "icetea.encode.tetnguyendan",
+      "all_vi_en": 0
+    },
+    {
       "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/one-line_660x330-TV.jpg",
       "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/one-line_660x330-TV.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.oneline",
