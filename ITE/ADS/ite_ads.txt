@@ -11,20 +11,20 @@
       "id_vn": 1
     },
     {
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
+      "name": "Chúc Tết 2020 - Thiệp Tết 2020",
+      "packId": "icetea.encode.tetnguyendan",
+      "info":"Hàng ngàn tin nhắn, lời chúc, thiếp tết 2020 siêu đẹp dành cho bạn",
+      "ok": "HÃY TẢI NÓ ĐI!",
+      "cancel":"KHÔNG, CÁM ƠN",
+      "id_vn": 1
+    }
+    {
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
       "name": "Bói Tổng Hợp - Tử Vi",
       "packId": "icetea.encode.boitonghop2",
       "info":"Ứng dụng xem bói, xem tử vi, xem lịch tốt nhất của người Việt, cho người Việt",
       "ok": "TẢI NGAY",
-      "cancel":"ĐỂ SAU",
-      "id_vn": 1
-    },
-    {
-      "link": "https://sites.google.com/view/iceteaencode/trangchu/Bigkool-danh-bai-doi-thuong",
-      "name": "Bigkool - Đánh Bài Đổi Thưởng",
-      "packId": "vn.gamehn.danhbaitangxugamevn",
-      "info":"Hệ thống game bài hàng đầu Việt Nam giúp người chơi không bao giờ chán và luôn có những giây phút sảng khoái, thú vị.",
-      "ok": "XEM NGAY",
       "cancel":"ĐỂ SAU",
       "id_vn": 1
     },
