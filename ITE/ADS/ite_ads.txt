@@ -18,7 +18,7 @@
       "ok": "HÃY TẢI NÓ ĐI!",
       "cancel":"KHÔNG, CÁM ƠN",
       "id_vn": 1
-    }
+    },
     {
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
       "name": "Bói Tổng Hợp - Tử Vi",
