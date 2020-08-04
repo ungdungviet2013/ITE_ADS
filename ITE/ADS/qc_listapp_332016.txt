@@ -8,7 +8,7 @@
       "url_icon": "https://lh3.googleusercontent.com/_uf0fINYPeSbZD3k56cxsw5xUwmXg0aX7PIAcXjs1yMKaVdbIKiCdtb6ZK9mf31ggOo=s86",
       "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
       "name": "Lịch Việt",
-      "id_vn": 1,
+      "id_vn": 0,
       "packId": "com.ite.lichamduong"
     },
     {
@@ -40,17 +40,52 @@
       "packId": "com.ite.compass"
     },
     {
+      "url_icon": "https://lh3.googleusercontent.com/zvDnHRDoKkwBfysVTYsCltV3uv_Hc9wz8Wtb573TJEOgO0pZx_ygA24UYbFmTq_0Rg=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.dailyhoroscope",
+      "name": "Tử Vi Hàng Ngày Của Tôi",
+      "id_vn": 0,
+      "packId": "com.ite.dailyhoroscope"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/Abi-TPN4up6IvowAN1Oaa2zEtuvUWzVIsMcjMeh13bwA4pzUExQfoqgx8F0nesQj1ym-=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
+      "name": "Phong Thủy Việt",
+      "id_vn": 0,
+      "packId": "com.ite.phongthuy"
+    },
+    {
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
       "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
       "name": "Bói 2019 Android, iOS, WinPhone",
-      "id_vn": 1,
+      "id_vn": 0,
       "packId": "hq.eBiz.OTOS"
     },
     {
       "url_icon": "https://lh3.googleusercontent.com/ZCx3G0Juexw4qyl4E9MQ_RFoD4jXY7g_htW_zsxcdJNP1t2AOthIbNb9_nVNLA0n1Pw7=w86",
       "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
-      "name": "Tô Màu 2019",
+      "name": "Tô Màu 2020",
       "id_vn": 0,
+      "packId": "com.ite.coloring4kids"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/TLBmlgx9xePxbVjozpEgWnjLKYQwbq_bjx_y48U-rU2N1jX7eSkOpjpXv1wDSmHHPGs=s86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
+      "name": "SMS Hay - Tin Nhắn Miễn Phí",
+      "id_vn": 0,
+      "packId": "com.ite.smsgiftlife"
+    },
+    {
+      "url_icon": "https://lh5.ggpht.com/tjFjS13cn9E2U8usLbo1L5bFtsH2JUOpyLBasYaM2Xch94yZL3nqHc4fAQxW67JrUko=w86",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
+      "name": "Bói Tổng Hợp 2020",
+      "id_vn": 0,
+      "packId": "icetea.encode.boitonghop2"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/ZCx3G0Juexw4qyl4E9MQ_RFoD4jXY7g_htW_zsxcdJNP1t2AOthIbNb9_nVNLA0n1Pw7=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
+      "name": "Coloring for Kids",
+      "id_vn": 1,
       "packId": "com.ite.coloring4kids"
     },
     {
@@ -59,34 +94,6 @@
       "name": "Quiz Math",
       "id_vn": 1,
       "packId": "com.ite.utruefalse"
-    },
-    {
-      "url_icon": "https://lh3.googleusercontent.com/zvDnHRDoKkwBfysVTYsCltV3uv_Hc9wz8Wtb573TJEOgO0pZx_ygA24UYbFmTq_0Rg=w86",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.dailyhoroscope",
-      "name": "Tử Vi Hàng Ngày Của Tôi",
-      "id_vn": 1,
-      "packId": "com.ite.dailyhoroscope"
-    },
-    {
-      "url_icon": "https://lh3.googleusercontent.com/Abi-TPN4up6IvowAN1Oaa2zEtuvUWzVIsMcjMeh13bwA4pzUExQfoqgx8F0nesQj1ym-=w86",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-      "name": "Phong Thủy Việt",
-      "id_vn": 1,
-      "packId": "com.ite.phongthuy"
-    },
-    {
-      "url_icon": "https://lh5.ggpht.com/tjFjS13cn9E2U8usLbo1L5bFtsH2JUOpyLBasYaM2Xch94yZL3nqHc4fAQxW67JrUko=w86",
-      "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
-      "name": "Bói Tổng Hợp 2019",
-      "id_vn": 1,
-      "packId": "icetea.encode.boitonghop2"
-    },
-    {
-      "url_icon": "https://lh3.googleusercontent.com/TLBmlgx9xePxbVjozpEgWnjLKYQwbq_bjx_y48U-rU2N1jX7eSkOpjpXv1wDSmHHPGs=s86",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
-      "name": "SMS Hay - Tin Nhắn Miễn Phí",
-      "id_vn": 1,
-      "packId": "com.ite.smsgiftlife"
     },
     {
       "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=w86",
@@ -98,7 +105,7 @@
     {
       "url_icon": "https://lh3.googleusercontent.com/XrZjKp2Gcs9p3OXflIHEI7hSAzbOfDU7lNEU66w_Gsk78GbJZO1kMDBIMKzZ_nJIvQw=w86",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.trueorfalsecalculations",
-      "name": "Vua Toán Học",
+      "name": "King of Math",
       "id_vn": 1,
       "packId": "icetea.encode.trueorfalsecalculations"
     },
@@ -112,9 +119,30 @@
     {
       "url_icon": "https://lh3.googleusercontent.com/pZeZXO9Jro6bJqVLO2S5beKGYTnNhLMQBusTVE8ymfJsCyd1oKF3j_W9S5q5RSyNWmw=w86",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
-      "name": "Mã Hóa Nội Dung",
+      "name": "Cipher Code Secret",
       "id_vn": 1,
       "packId": "icetea.encode.createsecretcode"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/GjpVfpFyj7xPRns2sUeIlyFO7mMsmtFT9eIhz9RyUeHlqwOP13PYP50IT62jq2qGhbc=s86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.naturesound",
+      "name": "Nature Sound Relax Sleep",
+      "id_vn": 1,
+      "packId": "com.ite.naturesound"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/TKihjOopsdpuA55UIGoTQG5Xa_rQTXU9N6YAetijzGxFY3Lh-tuw6KAHnujP45JJ4I4=s86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.oneline",
+      "name": "1 Line - Brain Game",
+      "id_vn": 1,
+      "packId": "com.ite.oneline"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/76mQvmnBa1Rs-mez15YizbLbis2kIO6M5HI4jwDvn2AyPTl5bmBHBbACjz2Dmzo_fN8=w86",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.compass",
+      "name": "Compass Maps Compass 360",
+      "id_vn": 1,
+      "packId": "com.ite.compass"
     }
   ],
   "name": "Ice Tea Encode",
