@@ -35,7 +35,7 @@
       "id_vn": 0,
       "packId": "com.ite.smsgiftlife"
     },{
-      "url_icon": "https://lh3.googleusercontent.com/ytfGATENDsb1ppb_bZGirmGEFg1IqTX1bOS0Izk6od6mn8pquY9gZkjawIoWUVDhWy4=180",
+      "url_icon": "https://lh3.googleusercontent.com/ytfGATENDsb1ppb_bZGirmGEFg1IqTX1bOS0Izk6od6mn8pquY9gZkjawIoWUVDhWy4=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
       "name": "Sách tô màu cho trẻ em",
       "id_vn": 0,
