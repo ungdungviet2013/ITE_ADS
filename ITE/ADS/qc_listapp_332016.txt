@@ -11,6 +11,12 @@
       "id_vn": 0,
       "packId": "com.ite.compass"
     },{
+      "url_icon": "https://lh3.googleusercontent.com/txzIjG70L_ryP2hkLx8T72B5TXVfBB_D32spQM8H26Oa2gftvbzA3lzbfxNVfZClTg=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
+      "name": "Sổ Tay Ghi Chú Của Tôi",
+      "id_vn": 0,
+      "packId": "com.ite.keepnote"
+    },{
       "url_icon": "https://lh3.googleusercontent.com/Xcvyh8pTy-WG5uteZBqoSSf7rJzMqj4XNjH-73eaUV3JNLNs6fI_TSFeBIZybuDQeWI=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
       "name": "Phong Thủy Việt - La Bàn Và Thước Đo",
@@ -130,6 +136,13 @@
       "name": "Brain 1 LINE",
       "id_vn": 1,
       "packId": "com.ite.oneline"
+    },
+    {
+      "url_icon": "https://lh3.googleusercontent.com/txzIjG70L_ryP2hkLx8T72B5TXVfBB_D32spQM8H26Oa2gftvbzA3lzbfxNVfZClTg=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
+      "name": "My Notes App Free",
+      "id_vn": 1,
+      "packId": "com.ite.keepnote"
     },
     {
       "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=s180",
