@@ -11,6 +11,12 @@
       "id_vn": 0,
       "packId": "com.ite.compass"
     },{
+      "url_icon": "https://play-lh.googleusercontent.com/vos5B0Uc-6IEAsFTqAWhh98s09I2VI6Us06wlN6yILOS_qzgi2wmqqRya9O5FlvbKmc=s180",
+      "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
+      "name": "SMS Năm Mới 2021 - Thiệp Tết Tân Sửu 2021",
+      "id_vn": 0,
+      "packId": "icetea.encode.tetnguyendan"
+    },{
       "url_icon": "https://lh3.googleusercontent.com/txzIjG70L_ryP2hkLx8T72B5TXVfBB_D32spQM8H26Oa2gftvbzA3lzbfxNVfZClTg=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
       "name": "Sổ Tay Ghi Chú Của Tôi",
@@ -70,12 +76,6 @@
       "name": "Bói Tổng Hợp - Tử Vi - Lịch Việt",
       "id_vn": 0,
       "packId": "icetea.encode.boitonghop2"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/FOBg8GDdwyCszBl2PRxTwwaJSPPTJgbanu_4-nzRbpCX1nrZlyR0aYdWn-3BT__S8_8=s180",
-      "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
-      "name": "Chúc Tết 2020 - Cẩm Nang Tết",
-      "id_vn": 0,
-      "packId": "icetea.encode.tetnguyendan"
     },{
       "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
