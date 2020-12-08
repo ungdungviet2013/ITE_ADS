@@ -12,7 +12,7 @@
     },
     {
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
-      "name": "Chúc Tết 2020 - Thiệp Tết 2020",
+      "name": "Chúc Tết 2021 - Thiệp Tết 2021",
       "packId": "icetea.encode.tetnguyendan",
       "info":"Hàng ngàn tin nhắn, lời chúc, thiếp tết 2020 siêu đẹp dành cho bạn",
       "ok": "HÃY TẢI NÓ ĐI!",
