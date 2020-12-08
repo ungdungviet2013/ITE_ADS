@@ -5,7 +5,7 @@
       "url_icon_vi": "https://www.upsieutoc.com/images/2019/03/23/lich-viet660x330.jpg",
       "url_icon_en": "https://www.upsieutoc.com/images/2019/03/23/lich-viet660x330.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
-      "text_install_vi": "Cài ngay Lịch 2019",
+      "text_install_vi": "Cài ngay Lịch Việt 2021",
       "text_install_en": "Install Now",
       "packId": "com.ite.lichamduong",
       "all_vi_en": 0
@@ -29,10 +29,19 @@
       "all_vi_en": 0
     },
     {
+      "url_icon_vi": "https://www.upsieutoc.com/images/2020/12/08/chuc-tet-660x330.jpg",
+      "url_icon_en": "https://www.upsieutoc.com/images/2020/12/08/chuc-tet-660x330.jpg",
+      "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
+      "text_install_vi": "Xem ngay",
+      "text_install_en": "Install Now",
+      "packId": "com.ite.oneline",
+      "all_vi_en": 0
+    },
+    {
       "url_icon_vi": "https://www.upsieutoc.com/images/2019/01/12/boi-tong-hop-660x330.jpg",
       "url_icon_en": "https://www.upsieutoc.com/images/2019/01/12/boi-tong-hop-660x330.jpg",
       "link_store": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
-      "text_install_vi": "Tải ngay Bói 2019",
+      "text_install_vi": "Tải ngay Bói 2021",
       "text_install_en": "Install Now",
       "packId": "icetea.encode.boitonghop2",
       "all_vi_en": 0
