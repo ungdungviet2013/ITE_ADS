@@ -39,7 +39,7 @@
       "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
       "name": "Lịch Việt - Lịch Vạn Niên",
       "id_vn": 0,
-      "packId": "com.ite.lichamduong."
+      "packId": "com.ite.lichamduong"
     },{
       "url_icon": "https://lh3.googleusercontent.com/TLBmlgx9xePxbVjozpEgWnjLKYQwbq_bjx_y48U-rU2N1jX7eSkOpjpXv1wDSmHHPGs=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
