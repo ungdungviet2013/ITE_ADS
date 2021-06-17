@@ -17,7 +17,7 @@
       "id_vn": 0,
       "packId": "icetea.encode.tetnguyendan"
     },{
-      "url_icon": "https://lh3.googleusercontent.com/txzIjG70L_ryP2hkLx8T72B5TXVfBB_D32spQM8H26Oa2gftvbzA3lzbfxNVfZClTg=s180",
+      "url_icon": "https://lh3.googleusercontent.com/aSGvBpzTgOMvtisxlr3kLVmniYAJQ5L3fxVzaqlNwTqdQdEORZA2hrowosKMbgE0251M=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
       "name": "Sổ Tay Ghi Chú Của Tôi",
       "id_vn": 0,
@@ -138,7 +138,7 @@
       "packId": "com.ite.oneline"
     },
     {
-      "url_icon": "https://lh3.googleusercontent.com/txzIjG70L_ryP2hkLx8T72B5TXVfBB_D32spQM8H26Oa2gftvbzA3lzbfxNVfZClTg=s180",
+      "url_icon": "https://lh3.googleusercontent.com/aSGvBpzTgOMvtisxlr3kLVmniYAJQ5L3fxVzaqlNwTqdQdEORZA2hrowosKMbgE0251M=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
       "name": "My Notes App Free",
       "id_vn": 1,
