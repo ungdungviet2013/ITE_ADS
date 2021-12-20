@@ -76,50 +76,43 @@
       "name": "Tính nhẩm nhanh",
       "id_vn": 0,
       "packId": "icetea.encode.trueorfalsecalculations"
-    },
-    {
+    },{
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
       "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
       "name": "Bói 2022 Android, iOS, WinPhone",
       "id_vn": 0,
       "packId": "com.ite.iceteaencode"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/ibGcRodm0fEU6BDlgdBF91Dd008bOUabe022lAqDrfMQ4GVXPzqEXgXUuzWlAnOEczcm=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.compass",
       "name": "Compass Maps Pro - Digital Compass",
       "id_vn": 1,
       "packId": "com.ite.compass"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/bL0MvF7XhpZm5iRyZzsk8MhjRJe-zqE5TPp09bC0Uk5y22PPoEivCkZQyNq59wdBNb9N=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
       "name": "Kids Drawing - Kids Coloring",
       "id_vn": 1,
       "packId": "com.ite.coloring4kids"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/qlL5_HlljFWG4RwEZxroPEATb5OcBX2hN45r1oTCAIkHWwDlHV1RdF7BKJmqTnqw04E=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
       "name": "Quiz Math",
       "id_vn": 1,
       "packId": "com.ite.utruefalse"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
       "name": "Voice Record Translator Free",
       "id_vn": 1,
       "packId": "icetea.encode.smartvoicecontrol"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/pZeZXO9Jro6bJqVLO2S5beKGYTnNhLMQBusTVE8ymfJsCyd1oKF3j_W9S5q5RSyNWmw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
       "name": "Cipher Decoder Cipher Solver",
       "id_vn": 1,
       "packId": "icetea.encode.createsecretcode"
-    },
-    {
+    },{
       "url_icon": "https://lh3.googleusercontent.com/XrZjKp2Gcs9p3OXflIHEI7hSAzbOfDU7lNEU66w_Gsk78GbJZO1kMDBIMKzZ_nJIvQw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.trueorfalsecalculations",
       "name": "Math Duel - King Of Math",
