@@ -12,9 +12,9 @@
     },
     {
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
-      "name": "Chúc Tết 2021 - Thiệp Tết 2021",
+      "name": "Chúc Tết 2022 - Thiệp Tết 2022",
       "packId": "icetea.encode.tetnguyendan",
-      "info":"Hàng ngàn tin nhắn, lời chúc, thiếp tết 2020 siêu đẹp dành cho bạn",
+      "info":"Hàng ngàn tin nhắn, lời chúc, thiếp tết 2022 siêu đẹp dành cho bạn",
       "ok": "HÃY TẢI NÓ ĐI!",
       "cancel":"KHÔNG, CÁM ƠN",
       "id_vn": 1
