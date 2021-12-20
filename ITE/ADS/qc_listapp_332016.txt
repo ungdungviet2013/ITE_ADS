@@ -11,17 +11,11 @@
       "id_vn": 0,
       "packId": "com.ite.compass"
     },{
-      "url_icon": "https://play-lh.googleusercontent.com/vos5B0Uc-6IEAsFTqAWhh98s09I2VI6Us06wlN6yILOS_qzgi2wmqqRya9O5FlvbKmc=s180",
+      "url_icon": "https://play-lh.googleusercontent.com/bi15-idXgAJGGrHvR-7de2ftFT1s4-aP-6oFZCX_COizoK7e9iPInRNEkhLC3RSZAFM=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
-      "name": "SMS Năm Mới 2021 - Thiệp Tết Tân Sửu 2021",
+      "name": "SMS Năm Mới 2022 - Thiệp Tết Tân Sửu 2022",
       "id_vn": 0,
       "packId": "icetea.encode.tetnguyendan"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/aSGvBpzTgOMvtisxlr3kLVmniYAJQ5L3fxVzaqlNwTqdQdEORZA2hrowosKMbgE0251M=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
-      "name": "Sổ Tay Ghi Chú Của Tôi",
-      "id_vn": 0,
-      "packId": "com.ite.keepnote"
     },{
       "url_icon": "https://lh3.googleusercontent.com/Xcvyh8pTy-WG5uteZBqoSSf7rJzMqj4XNjH-73eaUV3JNLNs6fI_TSFeBIZybuDQeWI=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
@@ -59,18 +53,6 @@
       "id_vn": 0,
       "packId": "com.ite.utruefalse"
     },{
-      "url_icon": "https://lh3.googleusercontent.com/GjpVfpFyj7xPRns2sUeIlyFO7mMsmtFT9eIhz9RyUeHlqwOP13PYP50IT62jq2qGhbc=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.naturesound",
-      "name": "Âm thanh tự nhiên - thư giãn",
-      "id_vn": 0,
-      "packId": "com.ite.naturesound"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/nI6li78Cu55bBPXO3xS_UBBCX5kroRnEST24M61OpIdzKlMCGwECINCOS50j4szYWKNU=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.oneline",
-      "name": "Game 1 Nét Vẽ 1 Hình",
-      "id_vn": 0,
-      "packId": "com.ite.oneline"
-    },{
       "url_icon": "https://lh3.googleusercontent.com/KJemr08aQDv94Ks6GBvdGF167ULwWkJxRaRWIMEPkAoD40x4aRXRf-O4tszrOcr1Cyt7=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
       "name": "Bói Tổng Hợp - Tử Vi - Lịch Việt",
@@ -98,7 +80,7 @@
     {
       "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
       "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
-      "name": "Bói 2020 Android, iOS, WinPhone",
+      "name": "Bói 2022 Android, iOS, WinPhone",
       "id_vn": 0,
       "packId": "com.ite.iceteaencode"
     },
@@ -124,27 +106,6 @@
       "packId": "com.ite.utruefalse"
     },
     {
-      "url_icon": "https://lh3.googleusercontent.com/GjpVfpFyj7xPRns2sUeIlyFO7mMsmtFT9eIhz9RyUeHlqwOP13PYP50IT62jq2qGhbc=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.naturesound",
-      "name": "Nature sound - relax & sleepy",
-      "id_vn": 1,
-      "packId": "com.ite.naturesound"
-    },
-    {
-      "url_icon": "https://lh3.googleusercontent.com/nI6li78Cu55bBPXO3xS_UBBCX5kroRnEST24M61OpIdzKlMCGwECINCOS50j4szYWKNU=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.oneline",
-      "name": "Brain 1 LINE",
-      "id_vn": 1,
-      "packId": "com.ite.oneline"
-    },
-    {
-      "url_icon": "https://lh3.googleusercontent.com/aSGvBpzTgOMvtisxlr3kLVmniYAJQ5L3fxVzaqlNwTqdQdEORZA2hrowosKMbgE0251M=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.keepnote",
-      "name": "My Notes App Free",
-      "id_vn": 1,
-      "packId": "com.ite.keepnote"
-    },
-    {
       "url_icon": "https://lh3.googleusercontent.com/DUJbz1pEQwDfttMPgDJoAkUYTSrDAqbAKYYWFxBK8W4pKVCisnlcF-EcfLNS3H5aizw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.smartvoicecontrol",
       "name": "Voice Record Translator Free",
@@ -164,13 +125,6 @@
       "name": "Math Duel - King Of Math",
       "id_vn": 1,
       "packId": "icetea.encode.trueorfalsecalculations"
-    },
-    {
-      "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
-      "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
-      "name": "Bói 2020 Android, iOS, WinPhone",
-      "id_vn": 1,
-      "packId": "com.ite.iceteaencode"
     }
   ],
   "name": "Ice Tea Encode",
@@ -190,7 +144,7 @@
 		"url_480x800": "http://sv1.upsieutoc.com/2017/06/01/phongthuy320x250.jpg",
 		"url_720x1200": "http://sv1.upsieutoc.com/2017/06/01/phonthuy600x300.jpg",
 		"link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-		"name": "Nhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" - ứng dụng miễn phí giúp bạn xem bói, tra cứu lịch âm dương, lịch vạn niên, xem tử vi hàng ngày đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
+		"name": "Nhóm phát triển xin gửi đến bạn \"Phong Thủy\" - ứng dụng miễn phí giúp bạn xem phong thủy, tra cứu phong thủy đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
 		"version": 1,
 		"packId": "icetea.encode.tetnguyendan",
 		"priority":0,
