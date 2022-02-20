@@ -4,49 +4,7 @@
   "link_boi": "https://play.google.com/store/apps/details?id=icetea.encode.boitonghop2",
   "info_update": "Phiên bản 4.4.8",
   "listAds": [
-    {
-      "url_icon": "https://lh3.googleusercontent.com/rRqfI3R9Sgk-JspB-M-1LkRqVPM6-cMokGvv48dW45lIEhFmeidAgqd1NAFWwqKQjg=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.compass",
-      "name": "La Bàn Bản Đồ Phong Thủy",
-      "id_vn": 0,
-      "packId": "com.ite.compass"
-    },{
-      "url_icon": "https://play-lh.googleusercontent.com/bi15-idXgAJGGrHvR-7de2ftFT1s4-aP-6oFZCX_COizoK7e9iPInRNEkhLC3RSZAFM=s180",
-      "link": "https://play.google.com/store/apps/details?id=icetea.encode.tetnguyendan",
-      "name": "SMS Năm Mới 2022 - Thiệp Tết Tân Sửu 2022",
-      "id_vn": 0,
-      "packId": "icetea.encode.tetnguyendan"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/Xcvyh8pTy-WG5uteZBqoSSf7rJzMqj4XNjH-73eaUV3JNLNs6fI_TSFeBIZybuDQeWI=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-      "name": "Phong Thủy Việt - La Bàn Và Thước Đo",
-      "id_vn": 0,
-      "packId": "com.ite.phongthuy"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/zvDnHRDoKkwBfysVTYsCltV3uv_Hc9wz8Wtb573TJEOgO0pZx_ygA24UYbFmTq_0Rg=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.dailyhoroscope",
-      "name": "Tử Vi Hàng Ngày Của Tôi",
-      "id_vn": 0,
-      "packId": "com.ite.dailyhoroscope"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/_uf0fINYPeSbZD3k56cxsw5xUwmXg0aX7PIAcXjs1yMKaVdbIKiCdtb6ZK9mf31ggOo=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.lichamduong",
-      "name": "Lịch Việt - Lịch Vạn Niên",
-      "id_vn": 0,
-      "packId": "com.ite.lichamduong"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/TLBmlgx9xePxbVjozpEgWnjLKYQwbq_bjx_y48U-rU2N1jX7eSkOpjpXv1wDSmHHPGs=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
-      "name": "SMS Hay - Tin Nhan Yeu Thuong",
-      "id_vn": 0,
-      "packId": "com.ite.smsgiftlife"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/ytfGATENDsb1ppb_bZGirmGEFg1IqTX1bOS0Izk6od6mn8pquY9gZkjawIoWUVDhWy4=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
-      "name": "Sách tô màu cho trẻ em",
-      "id_vn": 0,
-      "packId": "com.ite.coloring4kids"
-    },{
+  {
       "url_icon": "https://lh3.googleusercontent.com/qlL5_HlljFWG4RwEZxroPEATb5OcBX2hN45r1oTCAIkHWwDlHV1RdF7BKJmqTnqw04E=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
       "name": "Giải toán nhanh",
@@ -77,24 +35,6 @@
       "id_vn": 0,
       "packId": "icetea.encode.trueorfalsecalculations"
     },{
-      "url_icon": "http://sv1.upsieutoc.com/2017/03/03/icon-boi.png",
-      "link": "https://sites.google.com/view/iceteaencode/trangchu/boi-tong-hop-lich-viet",
-      "name": "Bói 2022 Android, iOS, WinPhone",
-      "id_vn": 0,
-      "packId": "com.ite.iceteaencode"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/ibGcRodm0fEU6BDlgdBF91Dd008bOUabe022lAqDrfMQ4GVXPzqEXgXUuzWlAnOEczcm=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.compass",
-      "name": "Compass Maps Pro - Digital Compass",
-      "id_vn": 1,
-      "packId": "com.ite.compass"
-    },{
-      "url_icon": "https://lh3.googleusercontent.com/bL0MvF7XhpZm5iRyZzsk8MhjRJe-zqE5TPp09bC0Uk5y22PPoEivCkZQyNq59wdBNb9N=s180",
-      "link": "https://play.google.com/store/apps/details?id=com.ite.coloring4kids",
-      "name": "Kids Drawing - Kids Coloring",
-      "id_vn": 1,
-      "packId": "com.ite.coloring4kids"
-    },{
       "url_icon": "https://lh3.googleusercontent.com/qlL5_HlljFWG4RwEZxroPEATb5OcBX2hN45r1oTCAIkHWwDlHV1RdF7BKJmqTnqw04E=s180",
       "link": "https://play.google.com/store/apps/details?id=com.ite.utruefalse",
       "name": "Quiz Math",
@@ -118,30 +58,6 @@
       "name": "Math Duel - King Of Math",
       "id_vn": 1,
       "packId": "icetea.encode.trueorfalsecalculations"
-    }
-  ],
-  "name": "Ice Tea Encode",
-  "url": "https://play.google.com/store/apps/developer?id=Ice+Tea+Encode",
-  "list_Banner":[
-    {
-		"url_480x800": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-300-250.jpg",
-		"url_720x1200": "http://sv1.upsieutoc.com/2017/03/03/sms-hay-600-500.jpg",
-		"link_store": "https://play.google.com/store/apps/details?id=com.ite.smsgiftlife",
-		"name": "Nhóm phát triển xin gửi đến bạn \"Lịch Âm Dương\" phiên bản mới của Bói Tổng Hợp với giao diện mới, hiện đại, tiện dụng và thêm nhiều tính năng mới.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
-		"version": 1,
-		"packId": "icetea.encode.boitonghop2",
-		"priority":0,
-		"is_vn":1
-    },
-    {
-		"url_480x800": "http://sv1.upsieutoc.com/2017/06/01/phongthuy320x250.jpg",
-		"url_720x1200": "http://sv1.upsieutoc.com/2017/06/01/phonthuy600x300.jpg",
-		"link_store": "https://play.google.com/store/apps/details?id=com.ite.phongthuy",
-		"name": "Nhóm phát triển xin gửi đến bạn \"Phong Thủy\" - ứng dụng miễn phí giúp bạn xem phong thủy, tra cứu phong thủy đơn giản thuận tiện nhanh chóng.\nChọn \"Cài đặt\" để trải nghiệm ngay nhé.",
-		"version": 1,
-		"packId": "icetea.encode.tetnguyendan",
-		"priority":0,
-		"is_vn":1
     }
 	]
 }
