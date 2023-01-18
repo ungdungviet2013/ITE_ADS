@@ -23,6 +23,30 @@
       "id_vn": 0,
       "packId": "icetea.encode.smartvoicecontrol"
     },{
+      "url_icon": "https://play-lh.googleusercontent.com/gtp-uWJJWhkuxlk2zM0o9h5vcyYgw90w_n2kO_uRElqSxf54UyWpdW2zpWNEQtcbqzc=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.iceteaencode.phongthuyviet",
+      "name": "Phong Thủy Việt - La Bàn",
+      "id_vn": 0,
+      "packId": "com.iceteaencode.phongthuyviet"
+    },{
+      "url_icon": "https://play-lh.googleusercontent.com/gtp-uWJJWhkuxlk2zM0o9h5vcyYgw90w_n2kO_uRElqSxf54UyWpdW2zpWNEQtcbqzc=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.iceteaencode.phongthuyviet",
+      "name": "Phong Thủy Việt - La Bàn",
+      "id_vn": 1,
+      "packId": "com.iceteaencode.phongthuyviet"
+    },{
+      "url_icon": "https://play-lh.googleusercontent.com/Kh5FD5Q1JnthYDpDBWFmO_9Sn7SYtx4fUJom6ELyh-tL9t3Xx5wAt5zNxURzDQCb1Wk=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.icetea.compass",
+      "name": "La Bàn - Bản đồ",
+      "id_vn": 0,
+      "packId": "com.icetea.compass"
+    },{
+      "url_icon": "https://play-lh.googleusercontent.com/Kh5FD5Q1JnthYDpDBWFmO_9Sn7SYtx4fUJom6ELyh-tL9t3Xx5wAt5zNxURzDQCb1Wk=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.icetea.compass",
+      "name": "Digital Compass Map",
+      "id_vn": 1,
+      "packId": "com.icetea.compass"
+    },{
       "url_icon": "https://lh3.googleusercontent.com/pZeZXO9Jro6bJqVLO2S5beKGYTnNhLMQBusTVE8ymfJsCyd1oKF3j_W9S5q5RSyNWmw=s180",
       "link": "https://play.google.com/store/apps/details?id=icetea.encode.createsecretcode",
       "name": "Sáng Tạo Mật Thư",
